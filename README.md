@@ -2,7 +2,8 @@
 
 This project is an autonomous robot that navigates a custom arena using real-time computer vision and a machine learning model. The system identifies various "events" on the arena floor, plans a priority-based route, and guides the robot to each location.
 
-![Project Demo](https://drive.google.com/file/d/1FSJBo8isUng6pxaYMCx-LnSWOEKhXnYs/view?usp=sharing)
+
+[![Watch the Project Demo](demo-thumbnail.png)](https://drive.google.com/file/d/1FSJBo8isUng6pxaYMCx-LnSWOEKhXnYs/view?usp=sharing)
 
 
 ---
